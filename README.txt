@@ -1,13 +1,13 @@
 # Game
 Unity project
 -	RPG, H&S, Fantasy (Spell), Co-oP
--	2 obtížnosti (Normal, Hard), možnost zmìny obtížnsoti
+-	2 obtÃ­Å¾nosti (Normal, Hard), moÅ¾nost zmÃ¬ny obtÃ­Å¾nsoti
 -	Talenty + Perk System (End Game)
--	Odlišné talenty na classy
--	Všichni zaèínají stejnì (Commoner) (ZERO = HERO)
+-	OdliÅ¡nÃ© talenty na classy
+-	VÅ¡ichni zaÃ¨Ã­najÃ­ stejnÃ¬ (Commoner) (ZERO = HERO)
 -	Range Attack = skill shot
 
--	Classy 
+Classy 
 -	warrior (Tank  DPS (2h, 1,5h + bucklet)
 -	Rogue (Tactition  Burglar)
 -	Ranger (Long Bow  Short Bow (#Legolas))
